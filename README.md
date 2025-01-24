@@ -1,6 +1,6 @@
 # Code7Crusaders POC
 
-Questo è il Proof of Concept (POC) per il progetto Code7Crusaders, che include un'applicazione web per un'assistente virtuale. L'applicazione è composta da un frontend in React e un backend in Python.
+Questo è il Proof of Concept (POC) del gruppo Code7Crusaders per il progetto di SWE, che include un'applicazione web per un'assistente virtuale. L'applicazione è composta da un frontend in React e un backend in Python.
 
 ## Struttura del Progetto
 
